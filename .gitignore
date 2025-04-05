@@ -1,0 +1,7 @@
+obj/project.nuget.cache
+obj/project.assets.json
+obj/Jellyfin.Plugin.Template.csproj.nuget.g.targets
+obj/Jellyfin.Plugin.Template.csproj.nuget.g.props
+obj/Jellyfin.Plugin.Template.csproj.nuget.dgspec.json
+obj/Debug/net8.0/Jellyfin.Plugin.Template.csproj.AssemblyReference.cache
+obj/Debug/net8.0/Jellyfin.Plugin.Template.assets.cache
