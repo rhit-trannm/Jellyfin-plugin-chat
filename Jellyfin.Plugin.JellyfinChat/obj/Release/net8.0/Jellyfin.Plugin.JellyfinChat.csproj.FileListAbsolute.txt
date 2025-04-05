@@ -1,0 +1,15 @@
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\bin\Release\net8.0\Jellyfin.Plugin.JellyfinChat.deps.json
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\bin\Release\net8.0\Jellyfin.Plugin.JellyfinChat.dll
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\bin\Release\net8.0\Jellyfin.Plugin.JellyfinChat.pdb
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\bin\Release\net8.0\Jellyfin.Plugin.JellyfinChat.xml
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\obj\Release\net8.0\Jellyfin.Plugin.JellyfinChat.csproj.AssemblyReference.cache
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\obj\Release\net8.0\Jellyfin.Plugin.JellyfinChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\obj\Release\net8.0\Jellyfin.Plugin.JellyfinChat.AssemblyInfoInputs.cache
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\obj\Release\net8.0\Jellyfin.Plugin.JellyfinChat.AssemblyInfo.cs
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\obj\Release\net8.0\Jellyfin.Plugin.JellyfinChat.csproj.CoreCompileInputs.cache
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\obj\Release\net8.0\Jellyfin.Plugin.JellyfinChat.sourcelink.json
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\obj\Release\net8.0\Jellyfin.Plugin.JellyfinChat.dll
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\obj\Release\net8.0\refint\Jellyfin.Plugin.JellyfinChat.dll
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\obj\Release\net8.0\Jellyfin.Plugin.JellyfinChat.xml
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\obj\Release\net8.0\Jellyfin.Plugin.JellyfinChat.pdb
+D:\Github Projects\jellyfin-chat\Jellyfin.Plugin.JellyfinChat\obj\Release\net8.0\ref\Jellyfin.Plugin.JellyfinChat.dll

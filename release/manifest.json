@@ -1,0 +1,28 @@
+{
+    "categories": [
+      {
+        "name": "General",
+        "description": "General plugins for Jellyfin",
+        "plugins": [
+          {
+            "guid": "b148ad2b-4caa-4ab7-b501-e405940a8f20",
+            "name": "JellyfinChat",
+            "description": "Your plugin description",
+            "overview": "Brief overview of your plugin",
+            "owner": "YourName",
+            "category": "General",
+            "versions": [
+              {
+                "version": "1.0.0",
+                "changelog": "Initial release",
+                "targetAbi": "10.9.11",
+                "sourceUrl": "URL_TO_YOUR_RELEASE_ZIP",
+                "checksum": "SHA256_CHECKSUM_OF_YOUR_ZIP",
+                "timestamp": "YYYY-MM-DDThh:mm:ssZ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

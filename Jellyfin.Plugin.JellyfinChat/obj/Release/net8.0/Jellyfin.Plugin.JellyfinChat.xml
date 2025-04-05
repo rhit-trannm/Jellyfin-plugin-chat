@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jellyfin.Plugin.JellyfinChat</name>
+    </assembly>
+    <members>
+        <member name="T:Jellyfin.Plugin.JellyfinChat.Configuration.SomeOptions">
+            <summary>
+            The configuration options.
+            </summary>
+        </member>
+        <member name="F:Jellyfin.Plugin.JellyfinChat.Configuration.SomeOptions.OneOption">
+            <summary>
+            Option one.
+            </summary>
+        </member>
+        <member name="F:Jellyfin.Plugin.JellyfinChat.Configuration.SomeOptions.AnotherOption">
+            <summary>
+            Second option.
+            </summary>
+        </member>
+        <member name="T:Jellyfin.Plugin.JellyfinChat.Configuration.PluginConfiguration">
+            <summary>
+            Plugin configuration.
+            </summary>
+        </member>
+        <member name="M:Jellyfin.Plugin.JellyfinChat.Configuration.PluginConfiguration.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Jellyfin.Plugin.JellyfinChat.Configuration.PluginConfiguration"/> class.
+            </summary>
+        </member>
+        <member name="P:Jellyfin.Plugin.JellyfinChat.Configuration.PluginConfiguration.TrueFalseSetting">
+            <summary>
+            Gets or sets a value indicating whether some true or false setting is enabled..
+            </summary>
+        </member>
+        <member name="P:Jellyfin.Plugin.JellyfinChat.Configuration.PluginConfiguration.AnInteger">
+            <summary>
+            Gets or sets an integer setting.
+            </summary>
+        </member>
+        <member name="P:Jellyfin.Plugin.JellyfinChat.Configuration.PluginConfiguration.AString">
+            <summary>
+            Gets or sets a string setting.
+            </summary>
+        </member>
+        <member name="P:Jellyfin.Plugin.JellyfinChat.Configuration.PluginConfiguration.Options">
+            <summary>
+            Gets or sets an enum option.
+            </summary>
+        </member>
+        <member name="T:Jellyfin.Plugin.JellyfinChat.Plugin">
+            <summary>
+            The main plugin.
+            </summary>
+        </member>
+        <member name="M:Jellyfin.Plugin.JellyfinChat.Plugin.#ctor(MediaBrowser.Common.Configuration.IApplicationPaths,MediaBrowser.Model.Serialization.IXmlSerializer)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Jellyfin.Plugin.JellyfinChat.Plugin"/> class.
+            </summary>
+            <param name="applicationPaths">Instance of the <see cref="T:MediaBrowser.Common.Configuration.IApplicationPaths"/> interface.</param>
+            <param name="xmlSerializer">Instance of the <see cref="T:MediaBrowser.Model.Serialization.IXmlSerializer"/> interface.</param>
+        </member>
+        <member name="P:Jellyfin.Plugin.JellyfinChat.Plugin.Name">
+            <inheritdoc />
+        </member>
+        <member name="P:Jellyfin.Plugin.JellyfinChat.Plugin.Id">
+            <inheritdoc />
+        </member>
+        <member name="P:Jellyfin.Plugin.JellyfinChat.Plugin.Instance">
+            <summary>
+            Gets the current plugin instance.
+            </summary>
+        </member>
+        <member name="M:Jellyfin.Plugin.JellyfinChat.Plugin.GetPages">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
