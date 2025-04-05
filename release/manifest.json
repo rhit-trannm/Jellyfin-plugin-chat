@@ -16,8 +16,8 @@
                 "version": "1.0.0",
                 "changelog": "Initial release",
                 "targetAbi": "10.9.11",
-                "sourceUrl": "URL_TO_YOUR_RELEASE_ZIP",
-                "checksum": "SHA256_CHECKSUM_OF_YOUR_ZIP",
+                "sourceUrl": "https://github.com/yourusername/Jellyfin-plugin-chat/releases/download/v1.0.0/release.zip",
+                "checksum": "492fe854dc4dbb2575a9295371fc273d0c1cdf5633c95ce36e42af7f20c41efb",
                 "timestamp": "YYYY-MM-DDThh:mm:ssZ"
               }
             ]
